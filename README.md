@@ -38,3 +38,9 @@ class Config:
     chatgpt_parser: str = 'complex'  # 'simple' for single-function, 'complex' for single-line and hunk
     temperature: float = 1.0   # temperature in gpt api
     pairs: int = 2   # pairs to select
+```
+
+---
+
+### Details
+If you want to find more details about this paper, please visit [Our Website](https://sites.google.com/view/contrastrepair)
